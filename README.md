@@ -18,8 +18,9 @@ Before sending a PR, please see the [Contributing Guidelines](https://github.com
 
 
 #### Clojure
+* [@richhickey](https://twitter.com/richhickey)
 * [@fogus](https://twitter.com/fogus)
-
+* [@cemerick] (https://twitter.com/cemerick)
 
 #### CSS
 * [@anatudor](https://twitter.com/anatudor)
