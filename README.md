@@ -1,7 +1,7 @@
 ### A curated list of awesome twitter accounts, organised by community!
 
 
-The current list is very small and I need your help to improve this.
+The current list is very small and we need your help to improve this.
 
 Fork the repo, add the accounts in an organized manner and send the PR.
 
