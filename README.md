@@ -36,6 +36,7 @@ Fork the repo, add the accounts in an organized manner and send the PR.
 #### Javascript
 * [@addyosmani](https://twitter.com/addyosmani)
 * [@defunkt](https://twitter.com/defunkt)
+* [@fat](https://twitter.com/fat)
 * [@jordwalke](https://twitter.com/jordwalke)
 * [@mbostock](https://twitter.com/mbostock)
 * [@sindresorhus](https://twitter.com/sindresorhus)
