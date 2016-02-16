@@ -66,4 +66,4 @@ The person you add in the list must be either of the following:
 * Founder/Cofounder/co-creator of any popular programming language, libraries or Apps
 * Authors of any popular programming books
 * Other people of similar profiles
-
+The commit message should be of the format: `@[github handle]` , ( if his/her gihub account exists)
