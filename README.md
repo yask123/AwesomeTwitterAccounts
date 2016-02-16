@@ -82,3 +82,6 @@ The person you add in the list must be either of the following:
 When adding people, the commit message should be of the format: `Added @[github_handle1], @[github_handle2]`, (if their github account exists). 
 
 Example: `Added @fat, @adrianholovaty`
+
+## ToDo
+* Add name and description of people along with there twitter hangler.
