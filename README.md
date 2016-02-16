@@ -84,4 +84,4 @@ When adding people, the commit message should be of the format: `Added @[github_
 Example: `Added @fat, @adrianholovaty`
 
 ## ToDo
-* Add name and description of people along with there twitter handler.
+* Add name and description of people along with their twitter handler.
