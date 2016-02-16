@@ -14,6 +14,7 @@ Fork the repo, add the accounts in an organized manner and send the PR.
 
 
 #### CSS 
+* [@anatudor](https://twitter.com/anatudor)
 * [@chriscoyier](https://twitter.com/chriscoyier)
 * [@davemcfarland](https://twitter.com/davemcfarland)
 * [@mdo](https://twitter.com/mdo)
