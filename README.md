@@ -26,6 +26,7 @@ Fork the repo, add the accounts in an organized manner and send the PR.
 
 
 #### Go
+* [@avelino0](https://twitter.com/avelino0)
 * [@spf13](https://twitter.com/spf13)
 
 
