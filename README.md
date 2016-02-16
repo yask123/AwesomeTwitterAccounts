@@ -8,3 +8,6 @@
 
 #### CSS 
 * [@chriscoyier](https://twitter.com/chriscoyier)
+
+#### Django 
+* [@adrianholovaty](https://twitter.com/adrianholovaty)
