@@ -14,3 +14,8 @@
 
 #### Python
 * [@gvanrossum](https://twitter.com/gvanrossum)
+
+
+#### Android
+* [@koush](https://twitter.com/koush)
+* [@pareshmayani](https://twitter.com/pareshmayani)
