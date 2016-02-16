@@ -55,7 +55,6 @@ Before sending a PR, please see the [Contributing Guidelines](https://github.com
 * [@gvanrossum](https://twitter.com/gvanrossum)
 * [@kennethreitz](https://twitter.com/kennethreitz)
 * [@raymondh](https://twitter.com/raymondh)
-* [@nedbat](https://twitter.com/nedbat)
 * [@dabeaz](https://twitter.com/dabeaz)
 * [@ThePSF](https://twitter.com/ThePSF)
 * [@sam_et_max](https://twitter.com/sam_et_max) (French)
