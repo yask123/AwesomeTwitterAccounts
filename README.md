@@ -70,4 +70,6 @@ The person you add in the list must be either of the following:
 * Authors of any popular programming books
 * Other people of similar profiles
 
-When adding people, the commit message should be of the format: `Added @[github_handle1], @[github_handle2]`, (if their github account exists). Example: `Added @fat, @adrianholovaty`
+When adding people, the commit message should be of the format: `Added @[github_handle1], @[github_handle2]`, (if their github account exists). 
+
+Example: `Added @fat, @adrianholovaty`
