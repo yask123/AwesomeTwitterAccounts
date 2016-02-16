@@ -8,6 +8,7 @@ Fork the repo, add the accounts in an organized manner and send the PR.
 
 #### CSS 
 * [@chriscoyier](https://twitter.com/chriscoyier)
+* [@davemcfarland](https://twitter.com/davemcfarland)
 * [@mdo](https://twitter.com/mdo)
 
 #### Django 
