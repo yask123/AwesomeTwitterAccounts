@@ -3,3 +3,4 @@
 
 #### Javascript
 * [@addyosmani](https://twitter.com/addyosmani)
+* [@sindresorhus](https://twitter.com/sindresorhus)
