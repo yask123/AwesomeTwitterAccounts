@@ -16,11 +16,19 @@ Before sending a PR, please see the [Contributing Guidelines](https://github.com
 * [@pareshmayani](https://twitter.com/pareshmayani)
 * [@vogella](https://twitter.com/vogella)
 
+#### C++
+* [@lefticus](https://twitter.com/lefticus)
+* [@robwirving](https://twitter.com/robwirving)
+* [@jpakkane](https://twitter.com/jpakkane)
+* [@ericniebler](https://twitter.com/ericniebler)
+* [@StephanTLavavej](https://twitter.com/StephanTLavavej)
+
 
 #### Clojure
 * [@richhickey](https://twitter.com/richhickey)
 * [@fogus](https://twitter.com/fogus)
 * [@cemerick] (https://twitter.com/cemerick)
+
 
 #### CSS
 * [@anatudor](https://twitter.com/anatudor)
