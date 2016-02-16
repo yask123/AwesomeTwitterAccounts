@@ -66,6 +66,7 @@ Before sending a PR, please see the [Contributing Guidelines](https://github.com
 #### Ruby
 * [@mxcl](https://twitter.com/mxcl)
 
+======
 
 ##Contributing Guidelines
 The person you add in the list must be either of the following:
