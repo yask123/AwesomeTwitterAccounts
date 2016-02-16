@@ -5,7 +5,7 @@ The current list is very small and I need your help to improve this.
 
 Fork the repo, add the accounts in an organized manner and send the PR.
 
-Before sending a PR, please see the [Contributing Guidelines](https://github.com/bhrigu123/AwesomeTwitterAccounts/blob/master/README.md#contributing-guidelines)
+Before sending a PR, please see the [Contributing Guidelines](https://github.com/yask123/AwesomeTwitterAccounts#contributing-guidelines)
 
 
 #### Android
