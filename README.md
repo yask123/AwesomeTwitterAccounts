@@ -5,6 +5,8 @@ The current list is very small and I need your help to improve this.
 
 Fork the repo, add the accounts in an organized manner and send the PR.
 
+(Before sending a PR, please see the [Contributing Guidelines]() given at the bottom)
+
 
 #### Android
 * [@chainfirexda](https://twitter.com/ChainfireXDA)
@@ -55,3 +57,13 @@ Fork the repo, add the accounts in an organized manner and send the PR.
 
 #### Ruby
 * [@mxcl](https://twitter.com/mxcl)
+
+======
+
+##Contributing Guidelines
+The person you add in the list must be either of the following:
+* A reputed programmer/developer 
+* Founder/Cofounder/co-creator of any popular programming language, libraries or Apps
+* Authors of any popular programming books
+* Other people of similar profiles
+
