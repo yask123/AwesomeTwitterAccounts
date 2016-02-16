@@ -15,11 +15,13 @@ Fork the repo, add the accounts in an organized manner and send the PR.
 #### Javascript
 * [@addyosmani](https://twitter.com/addyosmani)
 * [@sindresorhus](https://twitter.com/sindresorhus)
-
+* [@goloroden](https://twitter.com/goloroden)
 
 #### Python
 * [@gvanrossum](https://twitter.com/gvanrossum)
 
+### iOS
+* [@Blauesocke](https://twitter.com/Blauesocke)
 
 #### Android
 * [@chainfirexda](https://twitter.com/ChainfireXDA)
