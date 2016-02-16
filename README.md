@@ -37,6 +37,7 @@ Before sending a PR, please see the [Contributing Guidelines](https://github.com
 
 #### iOS
 * [@Blauesocke](https://twitter.com/Blauesocke)
+* [@orta](https://twitter.com/orta)
 
 
 #### Javascript
