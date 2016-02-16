@@ -56,6 +56,7 @@ Fork the repo, add the accounts in an organized manner and send the PR.
 * [@dabeaz](https://twitter.com/dabeaz)
 * [@ThePSF](https://twitter.com/ThePSF)
 * [@sam_et_max](https://twitter.com/sam_et_max) (French)
+* [@mitsuhiko](https://twitter.com/mitsuhiko)
 
 #### Ruby
 * [@mxcl](https://twitter.com/mxcl)
