@@ -1,6 +1,6 @@
 ##Awesome Twitter Accounts
 
-### A curated list of awesome twitter accounts, organised by community!
+#### A curated list of awesome twitter accounts, organised by programming communities !
 
 
 The current list is very small and we need your help to improve this.
