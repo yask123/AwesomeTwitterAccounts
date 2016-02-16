@@ -10,11 +10,13 @@
 #### Javascript
 * [@addyosmani](https://twitter.com/addyosmani)
 * [@sindresorhus](https://twitter.com/sindresorhus)
-
+* [@goloroden](https://twitter.com/goloroden)
 
 #### Python
 * [@gvanrossum](https://twitter.com/gvanrossum)
 
+### iOS
+* [@Blauesocke](https://twitter.com/Blauesocke)
 
 #### Android
 * [@chainfirexda](https://twitter.com/ChainfireXDA)
