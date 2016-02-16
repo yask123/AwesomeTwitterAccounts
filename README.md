@@ -58,6 +58,9 @@ Before sending a PR, please see the [Contributing Guidelines](https://github.com
 #### Ruby
 * [@mxcl](https://twitter.com/mxcl)
 
+#### Windows Phone
+* [@bobtabor](https://twitter.com/bobtabor)
+
 ======
 
 ##Contributing Guidelines
