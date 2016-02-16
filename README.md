@@ -24,6 +24,10 @@ Fork the repo, add the accounts in an organized manner and send the PR.
 * [@adrianholovaty](https://twitter.com/adrianholovaty)
 
 
+#### Go
+* [@spf13](https://twitter.com/spf13)
+
+
 ### iOS
 * [@Blauesocke](https://twitter.com/Blauesocke)
 
