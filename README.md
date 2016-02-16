@@ -17,5 +17,6 @@
 
 
 #### Android
+* [@chainfirexda](https://twitter.com/ChainfireXDA)
 * [@koush](https://twitter.com/koush)
 * [@pareshmayani](https://twitter.com/pareshmayani)
