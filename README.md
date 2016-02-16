@@ -15,6 +15,10 @@ Before sending a PR, please see the [Contributing Guidelines](https://github.com
 * [@vogella](https://twitter.com/vogella)
 
 
+#### Clojure
+* [@fogus](https://twitter.com/fogus)
+
+
 #### CSS
 * [@anatudor](https://twitter.com/anatudor)
 * [@chriscoyier](https://twitter.com/chriscoyier)
@@ -54,6 +58,7 @@ Before sending a PR, please see the [Contributing Guidelines](https://github.com
 * [@dabeaz](https://twitter.com/dabeaz)
 * [@ThePSF](https://twitter.com/ThePSF)
 * [@sam_et_max](https://twitter.com/sam_et_max) (French)
+* [@mitsuhiko](https://twitter.com/mitsuhiko)
 
 #### Ruby
 * [@mxcl](https://twitter.com/mxcl)
