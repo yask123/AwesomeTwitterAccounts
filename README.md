@@ -25,3 +25,4 @@ Fork the repo, add the accounts in an organized manner and send the PR.
 * [@chainfirexda](https://twitter.com/ChainfireXDA)
 * [@koush](https://twitter.com/koush)
 * [@pareshmayani](https://twitter.com/pareshmayani)
+* [@vogella](https://twitter.com/vogella)
