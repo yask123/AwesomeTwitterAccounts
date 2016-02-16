@@ -17,10 +17,6 @@ Before sending a PR, please see the [Contributing Guidelines](https://github.com
 * [@vogella](https://twitter.com/vogella)
 
 #### C++
-* [@lefticus](https://twitter.com/lefticus)
-* [@robwirving](https://twitter.com/robwirving)
-* [@jpakkane](https://twitter.com/jpakkane)
-* [@ericniebler](https://twitter.com/ericniebler)
 * [@StephanTLavavej](https://twitter.com/StephanTLavavej)
 
 
