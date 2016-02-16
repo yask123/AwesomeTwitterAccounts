@@ -13,6 +13,10 @@ Fork the repo, add the accounts in an organized manner and send the PR.
 * [@vogella](https://twitter.com/vogella)
 
 
+#### Clojure
+* [@fogus](https://twitter.com/fogus)
+
+
 #### CSS
 * [@anatudor](https://twitter.com/anatudor)
 * [@chriscoyier](https://twitter.com/chriscoyier)
@@ -52,6 +56,7 @@ Fork the repo, add the accounts in an organized manner and send the PR.
 * [@dabeaz](https://twitter.com/dabeaz)
 * [@ThePSF](https://twitter.com/ThePSF)
 * [@sam_et_max](https://twitter.com/sam_et_max) (French)
+* [@mitsuhiko](https://twitter.com/mitsuhiko)
 
 #### Ruby
 * [@mxcl](https://twitter.com/mxcl)
