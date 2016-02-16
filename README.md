@@ -14,6 +14,9 @@ Before sending a PR, please see the [Contributing Guidelines](https://github.com
 * [@pareshmayani](https://twitter.com/pareshmayani)
 * [@vogella](https://twitter.com/vogella)
 
+#### Clojure
+* [@fogus](https://twitter.com/fogus)
+
 
 #### CSS
 * [@anatudor](https://twitter.com/anatudor)
@@ -26,6 +29,8 @@ Before sending a PR, please see the [Contributing Guidelines](https://github.com
 #### Django
 * [@adrianholovaty](https://twitter.com/adrianholovaty)
 
+#### Elixir
+* [@josevalim](https://twitter.com/josevalim)
 
 #### Go
 * [@spf13](https://twitter.com/spf13)
@@ -54,6 +59,9 @@ Before sending a PR, please see the [Contributing Guidelines](https://github.com
 * [@dabeaz](https://twitter.com/dabeaz)
 * [@ThePSF](https://twitter.com/ThePSF)
 * [@sam_et_max](https://twitter.com/sam_et_max) (French)
+* [@ramalhoorg](https://twitter.com/ramalhoorg)
+* [@mitsuhiko](https://twitter.com/mitsuhiko)
+
 
 #### Ruby
 * [@mxcl](https://twitter.com/mxcl)
