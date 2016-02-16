@@ -39,6 +39,7 @@ Fork the repo, add the accounts in an organized manner and send the PR.
 
 #### Python
 * [@gvanrossum](https://twitter.com/gvanrossum)
+* [@kennethreitz](https://twitter.com/kennethreitz)
 * [@raymondh](https://twitter.com/raymondh)
 * [@nedbat](https://twitter.com/nedbat)
 * [@dabeaz](https://twitter.com/dabeaz)
