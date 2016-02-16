@@ -67,6 +67,11 @@ Before sending a PR, please see the [Contributing Guidelines](https://github.com
 #### Windows Phone
 * [@bobtabor](https://twitter.com/bobtabor)
 
+#### Parody
+* [@iamdevloper](https://twitter.com/iamdevloper)
+* [@PHP_CEO](https://twitter.com/PHP_CEO)
+* [@50NerdsofGrey](https://twitter.com/50NerdsofGrey)
+
 ======
 
 ##Contributing Guidelines
