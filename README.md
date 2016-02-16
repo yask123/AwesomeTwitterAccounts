@@ -11,3 +11,6 @@
 
 #### Django 
 * [@adrianholovaty](https://twitter.com/adrianholovaty)
+
+#### Python
+* [@gvanrossum](https://twitter.com/gvanrossum)
