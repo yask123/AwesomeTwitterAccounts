@@ -57,6 +57,7 @@ Before sending a PR, please see the [Contributing Guidelines](https://github.com
 * [@goloroden](https://twitter.com/goloroden)
 * [@jeresig](https://twitter.com/jeresig)
 * [@slicknet](https://twitter.com/slicknet)
+* [@rauschma](https://twitter.com/rauschma)
 
 
 #### Python
