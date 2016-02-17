@@ -108,6 +108,7 @@ Before sending a PR, please see the [Contributing Guidelines](https://github.com
 * [@iamdevloper](https://twitter.com/iamdevloper)
 * [@PHP_CEO](https://twitter.com/PHP_CEO)
 * [@50NerdsofGrey](https://twitter.com/50NerdsofGrey)
+* [@SwiftOnSecurity](https://twitter.com/swiftonsecurity)
 
 ======
 
