@@ -98,7 +98,7 @@ Before sending a PR, please see the [Contributing Guidelines](https://github.com
 * [@ThePSF](https://twitter.com/ThePSF)
 * [@mitsuhiko](https://twitter.com/mitsuhiko)
 
-#### Ruby
+#### Swift
 * [@mxcl](https://twitter.com/mxcl)
 
 #### Windows Phone
