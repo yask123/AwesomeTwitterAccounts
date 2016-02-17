@@ -32,6 +32,24 @@ Before sending a PR, please see the [Contributing Guidelines](https://github.com
 * [@davemcfarland](https://twitter.com/davemcfarland)
 * [@mdo](https://twitter.com/mdo)
 * [@speckyboy](https://twitter.com/speckyboy)
+* [@LeaVerou](https://twitter.com/LeaVerou)
+* [@standardista](https://twitter.com/standardista)
+* [@kizmarh](https://twitter.com/kizmarh)
+* [@AmeliasBrain](https://twitter.com/AmeliasBrain)
+* [@GregorAdams](https://twitter.com/GregorAdams)
+* [@dudleystorey](https://twitter.com/dudleystorey)
+* [@iamvdo](https://twitter.com/iamvdo)
+* [@zoltandulac](https://twitter.com/zoltandulac)
+* [@yoksel_en](https://twitter.com/yoksel_en)
+* [@bennettfeely](https://twitter.com/bennettfeely)
+* [@Una](https://twitter.com/Una)
+* [@csswizardry](https://twitter.com/csswizardry)
+* [@StuRobson](https://twitter.com/StuRobson)
+* [@lucasbebber](https://twitter.com/lucasbebber)
+* [@gianablantin](https://twitter.com/gianablantin)
+* [@maicodes](https://twitter.com/maicodes)
+* [@NikolayTalanov](https://twitter.com/NikolayTalanov)
+* [@htmlnate](https://twitter.com/htmlnate)
 
 
 #### Django
@@ -58,6 +76,18 @@ Before sending a PR, please see the [Contributing Guidelines](https://github.com
 * [@jeresig](https://twitter.com/jeresig)
 * [@slicknet](https://twitter.com/slicknet)
 * [@rauschma](https://twitter.com/rauschma)
+* [@yakudoo](https://twitter.com/yakudoo)
+* [@Mamboleoo](https://twitter.com/Mamboleoo)
+* [@slicknet](https://twitter.com/slicknet)
+* [@rem](https://twitter.com/rem)
+* [@BrendanEich](https://twitter.com/BrendanEich)
+* [@thespite](https://twitter.com/thespite)
+* [@mrdoob](https://twitter.com/mrdoob)
+* [@tmrDevelops](https://twitter.com/tmrDevelops)
+* [@keithclarkcouk](https://twitter.com/keithclarkcouk)
+* [@davidwalshblog](https://twitter.com/davidwalshblog)
+* [@twholman](https://twitter.com/twholman)
+* [@hakimel](https://twitter.com/hakimel)
 
 
 #### Python
