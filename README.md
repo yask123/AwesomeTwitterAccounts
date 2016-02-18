@@ -65,7 +65,7 @@ Before sending a PR, please see the [Contributing Guidelines](https://github.com
 * [@orta](https://twitter.com/orta)
 
 
-#### Javascript
+#### JavaScript
 * [@addyosmani](https://twitter.com/addyosmani)
 * [@defunkt](https://twitter.com/defunkt)
 * [@fat](https://twitter.com/fat)
