@@ -74,7 +74,6 @@ Before sending a PR, please see the [Contributing Guidelines](https://github.com
 * [@sindresorhus](https://twitter.com/sindresorhus)
 * [@goloroden](https://twitter.com/goloroden)
 * [@jeresig](https://twitter.com/jeresig)
-* [@slicknet](https://twitter.com/slicknet)
 * [@rauschma](https://twitter.com/rauschma)
 * [@yakudoo](https://twitter.com/yakudoo)
 * [@Mamboleoo](https://twitter.com/Mamboleoo)
