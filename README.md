@@ -99,6 +99,10 @@ Before sending a PR, please see the [Contributing Guidelines](https://github.com
 * [@mitsuhiko](https://twitter.com/mitsuhiko)
 
 #### Ruby
+* [@yukihiro_matz](https://twitter.com/yukihiro_matz) ([@matz_translated](https://twitter.com/matz_translated))
+* [@dhh](https://twitter.com/dhh)
+
+#### Swift
 * [@mxcl](https://twitter.com/mxcl)
 
 #### Windows Phone
@@ -108,6 +112,7 @@ Before sending a PR, please see the [Contributing Guidelines](https://github.com
 * [@iamdevloper](https://twitter.com/iamdevloper)
 * [@PHP_CEO](https://twitter.com/PHP_CEO)
 * [@50NerdsofGrey](https://twitter.com/50NerdsofGrey)
+* [@SwiftOnSecurity](https://twitter.com/swiftonsecurity)
 
 ======
 
