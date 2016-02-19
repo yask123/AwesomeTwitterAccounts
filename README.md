@@ -104,6 +104,10 @@ Before sending a PR, please see the [Contributing Guidelines](https://github.com
 #### Swift
 * [@mxcl](https://twitter.com/mxcl)
 
+#### Web Animation
+* [@vlh](https://twitter.com/vlh)
+* [@SaraSoueidan](https://twitter.com/SaraSoueidan)
+
 #### Windows Phone
 * [@bobtabor](https://twitter.com/bobtabor)
 
