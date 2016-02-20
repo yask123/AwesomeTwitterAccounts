@@ -11,10 +11,17 @@ Before sending a PR, please see the [Contributing Guidelines](https://github.com
 
 
 #### Android
-* [@chainfirexda](https://twitter.com/ChainfireXDA)
-* [@koush](https://twitter.com/koush)
-* [@pareshmayani](https://twitter.com/pareshmayani)
-* [@vogella](https://twitter.com/vogella)
+* 
+* 
+* 
+
+| Name          | Description   | Twitter handler 									|
+| ------------- |:-------------:| -------------:									|
+| col 3 is      | right-aligned | [@chainfirexda](https://twitter.com/ChainfireXDA) |
+| col 2 is      | centered      | [@koush](https://twitter.com/koush)       		|
+| zebra stripes | are neat      | [@pareshmayani](https://twitter.com/pareshmayani) |
+| col 2 is      | centered      | [@vogella](https://twitter.com/vogella)       	|
+| col 2 is      | centered      | [@koush](https://twitter.com/koush)       		|
 
 #### C++
 * [@StephanTLavavej](https://twitter.com/StephanTLavavej)
