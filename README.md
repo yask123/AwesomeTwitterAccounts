@@ -132,3 +132,8 @@ Example: `Added @fat, @adrianholovaty`
 
 ## ToDo
 * Add name and description of people along with their twitter handler.
+| Name          | Description   | Twitter Handle|
+| ------------- |:-------------:| -------------:|
+| col 3 is      | right-aligned | $1600         |
+| col 2 is      | centered      |   $12         |
+| zebra stripes | are neat      |    $1         |
