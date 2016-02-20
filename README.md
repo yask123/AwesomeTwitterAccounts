@@ -7,7 +7,7 @@ The current list is very small and we need your help to improve this.
 
 Fork the repo, add the accounts in an organized manner and send the PR.
 
-Before sending a PR, please see the [Contributing Guidelines](https://github.com/yask123/AwesomeTwitterAccounts#contributing-guidelines)
+Before sending a PR, please see the [Contributing Guidelines](CONTRIBUTING.md)
 
 
 #### Android
@@ -118,17 +118,6 @@ Before sending a PR, please see the [Contributing Guidelines](https://github.com
 * [@SwiftOnSecurity](https://twitter.com/swiftonsecurity)
 
 ======
-
-##Contributing Guidelines
-The person you add in the list must be either of the following:
-* A reputed programmer/developer 
-* Founder/Cofounder/co-creator of any popular programming language, libraries or Apps
-* Authors of any popular programming books
-* Other people of similar profiles
-
-When adding people, the commit message should be of the format: `Added @[github_handle1], @[github_handle2]`, (if their github account exists). 
-
-Example: `Added @fat, @adrianholovaty`
 
 ## ToDo
 * Add name and description of people along with their twitter handler.
