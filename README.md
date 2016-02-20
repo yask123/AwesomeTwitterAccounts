@@ -11,17 +11,10 @@ Before sending a PR, please see the [Contributing Guidelines](https://github.com
 
 
 #### Android
-* 
-* 
-* 
-
-| Name          | Description   | Twitter handler 									|
-| ------------- |:-------------:| -------------:									|
-| col 3 is      | right-aligned | [@chainfirexda](https://twitter.com/ChainfireXDA) |
-| col 2 is      | centered      | [@koush](https://twitter.com/koush)       		|
-| zebra stripes | are neat      | [@pareshmayani](https://twitter.com/pareshmayani) |
-| col 2 is      | centered      | [@vogella](https://twitter.com/vogella)       	|
-| col 2 is      | centered      | [@koush](https://twitter.com/koush)       		|
+* [@chainfirexda](https://twitter.com/ChainfireXDA)
+* [@koush](https://twitter.com/koush)
+* [@pareshmayani](https://twitter.com/pareshmayani)
+* [@vogella](https://twitter.com/vogella)
 
 #### C++
 * [@StephanTLavavej](https://twitter.com/StephanTLavavej)
@@ -139,11 +132,4 @@ Example: `Added @fat, @adrianholovaty`
 
 ## ToDo
 * Add name and description of people along with their twitter handler.
-* 
 
-
-| Name          | Description   | Twitter Handle|
-| ------------- |:-------------:| -------------:|
-| col 3 is      | right-aligned | $1600         |
-| col 2 is      | centered      |   $12         |
-| zebra stripes | are neat      |    $1         |
