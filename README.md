@@ -139,6 +139,12 @@ Before sending a PR, please see the [Contributing Guidelines](CONTRIBUTING.md)
 * [@50NerdsofGrey](https://twitter.com/50NerdsofGrey)
 * [@SwiftOnSecurity](https://twitter.com/swiftonsecurity)
 
+#### General
+* [@migueldeicaza](https://twitter.com/migueldeicaza)
+* [@codinghorror](https://twitter.com/codinghorror)
+* [@spolsky](https://twitter.com/spolsky)
+* [@jonskeet](https://twitter.com/jonskeet)
+
 ======
 
 ## ToDo
