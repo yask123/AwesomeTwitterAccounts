@@ -98,6 +98,7 @@ Before sending a PR, please see the [Contributing Guidelines](CONTRIBUTING.md)
 * [@twholman](https://twitter.com/twholman)
 * [@hakimel](https://twitter.com/hakimel)
 * [@tjholowaychuk](https://twitter.com/tjholowaychuk)
+* [@mpjme](https://twitter.com/mpjme)
 
 #### Photoshop
 * [@LuckychairNews](https://twitter.com/luckychairnews)
