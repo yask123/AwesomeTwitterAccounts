@@ -74,6 +74,11 @@ Before sending a PR, please see the [Contributing Guidelines](CONTRIBUTING.md)
 * [@Blauesocke](https://twitter.com/Blauesocke)
 * [@orta](https://twitter.com/orta)
 
+#### Java
+* [@javacodegeeks](https://twitter.com/javacodegeeks)
+* [@Oraclejavamag](https://twitter.com/Oraclejavamag)
+* [@springcentral](https://twitter.com/springcentral)
+* [@javinpaul](https://twitter.com/javinpaul)
 
 #### JavaScript
 * [@addyosmani](https://twitter.com/addyosmani)
