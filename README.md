@@ -145,6 +145,7 @@ Before sending a PR, please see the [Contributing Guidelines](CONTRIBUTING.md)
 * [@codinghorror](https://twitter.com/codinghorror)
 * [@spolsky](https://twitter.com/spolsky)
 * [@jonskeet](https://twitter.com/jonskeet)
+* [@ThePracticalDev](https://twitter.com/ThePracticalDev)
 
 ======
 
