@@ -68,6 +68,7 @@ Before sending a PR, please see the [Contributing Guidelines](CONTRIBUTING.md)
 
 #### Go
 * [@spf13](https://twitter.com/spf13)
+* [@davecheney](https://twitter.com/davecheney)
 
 
 #### iOS
@@ -98,6 +99,7 @@ Before sending a PR, please see the [Contributing Guidelines](CONTRIBUTING.md)
 * [@twholman](https://twitter.com/twholman)
 * [@hakimel](https://twitter.com/hakimel)
 * [@tjholowaychuk](https://twitter.com/tjholowaychuk)
+* [@mpjme](https://twitter.com/mpjme)
 
 #### Photoshop
 * [@LuckychairNews](https://twitter.com/luckychairnews)
