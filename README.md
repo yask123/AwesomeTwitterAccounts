@@ -150,5 +150,5 @@ Before sending a PR, please see the [Contributing Guidelines](CONTRIBUTING.md)
 ======
 
 ## ToDo
-* Add name and description of people along with their twitter handler.
+* Add names and description of people along with their twitter handler.
 
