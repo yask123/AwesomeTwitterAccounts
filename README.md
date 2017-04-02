@@ -67,6 +67,7 @@ Before sending a PR, please see the [Contributing Guidelines](CONTRIBUTING.md)
 
 
 #### Go
+* [@avelino0](https://twitter.com/avelino0)
 * [@spf13](https://twitter.com/spf13)
 
 
