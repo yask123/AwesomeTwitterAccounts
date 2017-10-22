@@ -23,7 +23,7 @@ Before sending a PR, please see the [Contributing Guidelines](CONTRIBUTING.md)
 #### Clojure
 * [@richhickey](https://twitter.com/richhickey)
 * [@fogus](https://twitter.com/fogus)
-* [@cemerick] (https://twitter.com/cemerick)
+* [@cemerick](https://twitter.com/cemerick)
 * [@swannodette](https://twitter.com/swannodette)
 * [@stuartsierra](https://twitter.com/stuartsierra)
 * [@weavejester](https://twitter.com/weavejester)
