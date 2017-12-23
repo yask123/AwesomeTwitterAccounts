@@ -15,6 +15,13 @@ Before sending a PR, please see the [Contributing Guidelines](CONTRIBUTING.md)
 * [@koush](https://twitter.com/koush)
 * [@pareshmayani](https://twitter.com/pareshmayani)
 * [@vogella](https://twitter.com/vogella)
+* [@KellyShuster](https://twitter.com/KellyShuster)
+* [@dmytrodanylyk](https://twitter.com/dmytrodanylyk)
+* [@rallat](https://twitter.com/rallat)
+* [@tsmith](https://twitter.com/tsmith)
+* [@donnfelker](https://twitter.com/donnfelker)
+* [@MarkIAllison](https://twitter.com/MarkIAllison)
+
 
 #### C++
 * [@StephanTLavavej](https://twitter.com/StephanTLavavej)
