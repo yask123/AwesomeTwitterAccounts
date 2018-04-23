@@ -130,6 +130,7 @@ Before sending a PR, please see the [Contributing Guidelines](CONTRIBUTING.md)
 #### Web Animation
 * [@vlh](https://twitter.com/vlh)
 * [@SaraSoueidan](https://twitter.com/SaraSoueidan)
+* [@sarah_edo](https://twitter.com/sarah_edo)
 
 #### Windows Phone
 * [@bobtabor](https://twitter.com/bobtabor)
